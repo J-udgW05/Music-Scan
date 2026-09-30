@@ -63,3 +63,17 @@ with BASS, the engine, reports, debatable decisions and the reasoning behind the
 [BSD 3-Clause](LICENSE.txt). The BASS libraries are not covered by it - they are free for
 non-commercial use only, see
 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for details.
+
+---
+
+<h3 align="center">Support the project</h3>
+
+<p align="center">
+  SP Converter is free and developed by one person in their spare time.<br />
+  If this helps you save time or is useful to you, please consider giving the repository a star.<br />
+  It helps other people find the app and keeps the project going.
+</p>
+
+<p align="center">
+  <a href="https://github.com/J-udgW05/SP-onverter/stargazers"><img alt="Star on GitHub" src="https://img.shields.io/github/stars/J-udgW05/SP-onverter?style=social" /></a>
+</p>
